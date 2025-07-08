@@ -1,6 +1,5 @@
-http://www.leafok.net/www/develop.php?type=innwebd
+https://www.leafok.com/dev/bbsdev.php
 
-CVS ¤U¸ü¡G
-export CVSROOT=:pserver:anonymous@166.111.160.221:/home/cvs
-cvs login
-cvs co innwebd
+LeafOK Innwebd was the experimental Innbbsd feature for LeafOK BBS. As member of cn.bbs.*, LeafOK BBS successfully achieved the cross-site news transfer between telnet-based BBS and web-based BBS. This application was developed with VC++. It was deprecated since the significant DB schema change and encoding change (GBK->UTF8) of LeafOK BBS.
+
+CVS source repo http://cvs.leafok.com/v/LeafOK_CVS/innwebd/
